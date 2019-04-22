@@ -6,6 +6,8 @@
   - [Github](#github)
   - [Node JS](#node-js)
   - [Instructions](#instructions)
+  - [Branch Naming Conventions](#branch-naming-conventions)
+      - [Grouping Tokens](#grouping-tokens)
 
 ## Github
 
@@ -22,3 +24,15 @@ Access the next link ([Install Node JS](https://nodejs.org/en/download/)) and fo
 ## Instructions
 
 1. Fork the repository and clone it into your machine.
+2. On root level of the project run `npm install`
+3. To run the project execute: `npm start`
+
+## Branch Naming Conventions
+``` <group>/<tracker-number>/<description> ```
+
+#### Grouping Tokens
+
+Grouping Tokens are the ones in front of the branch name. Use one of the next defined tokens to group the branches.
+
+* `feat` for creating or improving a feature.
+* `bug` for fixing a bug in an existing feature.
