@@ -1,0 +1,24 @@
+{
+  "name": "git_workshop_tec",
+  "version": "1.0.0",
+  "description": "## Requirements - [Git Crash Course](#git-crash-course)   - [Requirements](#requirements)   - [Github](#github)   - [Node JS](#node-js)   - [Instructions](#instructions)",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orozco93/git_workshop_tec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orozco93/git_workshop_tec/issues"
+  },
+  "homepage": "https://github.com/Orozco93/git_workshop_tec#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
