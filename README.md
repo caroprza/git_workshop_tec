@@ -5,6 +5,7 @@
   - [Requirements](#requirements)
   - [Github](#github)
   - [Node JS](#node-js)
+  - [Visual Code Editor](#visual-code-editor)
   - [Instructions](#instructions)
   - [Branch Naming Conventions](#branch-naming-conventions)
       - [Grouping Tokens](#grouping-tokens)
@@ -20,6 +21,10 @@ Access the next link ([Install Node JS](https://nodejs.org/en/download/)) and fo
 
 >**Note**: Install the LTS version (Recommended for most users)
 
+
+## Visual Code Editor
+
+Access the next link ([Install Visual Code](https://code.visualstudio.com/download)) and follow the instructions depending on your OS.
 
 ## Instructions
 
